@@ -4,6 +4,6 @@ I hope one day i can help everybody wich any one of my apps.
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zefelipe19&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zefelipe19&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zefelipe19&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zefelipe19&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
