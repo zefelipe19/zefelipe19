@@ -5,6 +5,6 @@
 <hr>
 <h3>Minhas outras redes sociais 📱</h3>
 <nav>
-  <a href="https://www.linkedin.com/in/jose-felipe-paula" target="blank">Linkedin<a>
-  <a href="https://www.instagram.com/ze_felipe1903/" target="blank">Instagram<a>
+  <a href="https://www.linkedin.com/in/jose-felipe-paula" target="_blank">Linkedin<a>
+  <a href="https://www.instagram.com/ze_felipe1903/" target="_blank">Instagram<a>
 </nav>
