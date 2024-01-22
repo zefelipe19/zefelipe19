@@ -1,5 +1,3 @@
-# Hi how are you today?
-I'm Felipe and I'm passionate about __creating__, I found a huge passion in web application development, because I can create almost __anything__.
-I hope one day i can help everybody wich any one of my apps.
-
----
+<h1>José Felipe</h1>
+<h3>Olá, tudo bem?</h3>
+<p>Me chamo José Felipe sou <strong>Desenvolvedor Web</strong>, atualmente trabalho com frameworks web fullstack como <strong>Django</strong> utilizando a minha linguagem favorita o <stong>Python</stong> 🐍, mas também trabalho com o <strong>JavaScript</strong> e tecnologias como <strong>React</strong>.</p>
